@@ -1,6 +1,6 @@
 # Macos-NTFS-RW-Tools 
   
-**ATTENTION: NEVER DO CLEAN TEMP FILE BEFORE REMOVE DEVICE**
+**ATTENTION: NEVER DO CLEAN TEMP FILE BEFORE REMOVE DEVICE**  
 **注意：不要再移除储存设备前使用清理缓存命令**
  
 Here are 2 tools about mount and umount WINDOWS-NTFS disk part on Mac OS   
